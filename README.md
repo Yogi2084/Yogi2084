@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello World, I'm Mohan Krishna A 👋🏽
 
-<!--
-**Yogi2084/Yogi2084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught Full-Stack Mobile Developer. 
+* I develop mobile applications in Flutter, React Native, SwiftUI and Compose.
+* I develop web applications in Next.js and Svelte.
+* I develop backend applications in Node.js and Sprint Boot.
 
-Here are some ideas to get you started:
+### Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web
+  - Next.js (JS/TS) • ⭐ ⭐
+  - React.js (JS/TS) • ⭐ ⭐
+ 
+- Back End
+  - Node.js (JS/TS) • ⭐ ⭐
+
+- AI
+  - Mistral • ⭐
+  - Weaviate (Vector Database) • ⭐`
+
+
+### Projects
+- Second Brain
