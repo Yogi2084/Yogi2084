@@ -1,4 +1,4 @@
-# Hello World, I'm Mohan Krishna A 👋🏽
+# Hello World, I'm Yogananda K S👋🏽
 
 A self-taught Full-Stack Mobile Developer. 
 * I develop mobile applications in Flutter, React Native, SwiftUI and Compose.
